@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Rafael Rosa
-- 👀 I’m interested in learning and sharing knowledge, I'm a very dedicated person, and I love technology.
-- 🌱 I’m currently learning ... Python and javascript 
-- 💞️ I’m looking to collaborate on projects with python , django or anything. I love to study and learn new things.
 
 <div align="center">
-  <a href="https://github.com/Cofault">
+  <a href="https://github.com/rafaelricardodarosa">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Cofault&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cofault&layout=compact&langs_count=7&theme=merko"/>
 </div>
